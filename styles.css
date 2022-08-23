@@ -1,3 +1,5 @@
+/* Font Link */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,100&display=swap');
 
 * {
@@ -6,6 +8,9 @@
     padding: 0;
     margin: 0;
 }
+
+
+/* Navigation bar */
 
 .header-container {
     background-color: #1f2937;
@@ -44,6 +49,9 @@ a {
     text-decoration: none;
     color: #e5e7eb;
 }
+
+
+/* Header content */
 
 .header-content {
     position: relative;
@@ -110,6 +118,9 @@ a {
     top: 26%;
 }
 
+
+/* Main Content */
+
 .main-container h1 {
     color: #1f2937;
     text-align: center;
@@ -138,6 +149,9 @@ a {
     padding: 10px 0;
 }
 
+
+/* Quote Content */
+
 .quote-container {
     display: flex;
     justify-content: center;
@@ -161,6 +175,9 @@ a {
     font-size: 25px;
     font-weight: 400;
 }
+
+
+/* Call To Action Content */
 
 .call-to-action-container {
     display: flex;
@@ -212,6 +229,9 @@ a {
     padding: 10px 55px;
     font-size: 16px;
 }
+
+
+/* Footer */
 
 footer {
     text-align: center;
